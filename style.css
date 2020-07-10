@@ -1,0 +1,15 @@
+.form-heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
